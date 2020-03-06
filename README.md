@@ -1,3 +1,4 @@
+[https://dev.azure.com/KKALAI2K75/DOTNET/_apis/build/status/kkalai2k.ContosoAir?branchName=master]
 [![Build Status](https://dev.azure.com/KKALAI2K75/DOTNET/_apis/build/status/kkalai2k.ContosoAir?branchName=master)](https://dev.azure.com/KKALAI2K75/DOTNET/_build/latest?definitionId=13&branchName=master)
 [![Build Status](https://dev.azure.com/KKALAI2K75/DOTNET/_apis/build/status/kkalai2k.ContosoAir?branchName=master)](https://dev.azure.com/KKALAI2K75/DOTNET/_build/latest?definitionId=13&branchName=master)
 
