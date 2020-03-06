@@ -1,4 +1,5 @@
 [![Build Status](https://dev.azure.com/KKALAI2K75/DOTNET/_apis/build/status/kkalai2k.ContosoAir?branchName=master)](https://dev.azure.com/KKALAI2K75/DOTNET/_build/latest?definitionId=13&branchName=master)
+[![Build Status](https://dev.azure.com/KKALAI2K75/DOTNET/_apis/build/status/kkalai2k.ContosoAir?branchName=master)](https://dev.azure.com/KKALAI2K75/DOTNET/_build/latest?definitionId=13&branchName=master)
 
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
